@@ -1,0 +1,250 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wget\\source\\repos\\ManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC33A7C-CAB3-9550-B259-BEB72CA76BEC}|ManagementSystem\\ManagementSystem.csproj|c:\\users\\wget\\source\\repos\\managementsystem\\managementsystem\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBC33A7C-CAB3-9550-B259-BEB72CA76BEC}|ManagementSystem\\ManagementSystem.csproj|solutionrelative:managementsystem\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC33A7C-CAB3-9550-B259-BEB72CA76BEC}|ManagementSystem\\ManagementSystem.csproj|c:\\users\\wget\\source\\repos\\managementsystem\\managementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBC33A7C-CAB3-9550-B259-BEB72CA76BEC}|ManagementSystem\\ManagementSystem.csproj|solutionrelative:managementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC33A7C-CAB3-9550-B259-BEB72CA76BEC}|ManagementSystem\\ManagementSystem.csproj|c:\\users\\wget\\source\\repos\\managementsystem\\managementsystem\\models\\projectversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBC33A7C-CAB3-9550-B259-BEB72CA76BEC}|ManagementSystem\\ManagementSystem.csproj|solutionrelative:managementsystem\\models\\projectversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC33A7C-CAB3-9550-B259-BEB72CA76BEC}|ManagementSystem\\ManagementSystem.csproj|c:\\users\\wget\\source\\repos\\managementsystem\\managementsystem\\services\\releaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBC33A7C-CAB3-9550-B259-BEB72CA76BEC}|ManagementSystem\\ManagementSystem.csproj|solutionrelative:managementsystem\\services\\releaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC33A7C-CAB3-9550-B259-BEB72CA76BEC}|ManagementSystem\\ManagementSystem.csproj|c:\\users\\wget\\source\\repos\\managementsystem\\managementsystem\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBC33A7C-CAB3-9550-B259-BEB72CA76BEC}|ManagementSystem\\ManagementSystem.csproj|solutionrelative:managementsystem\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC33A7C-CAB3-9550-B259-BEB72CA76BEC}|ManagementSystem\\ManagementSystem.csproj|c:\\users\\wget\\source\\repos\\managementsystem\\managementsystem\\models\\workround.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBC33A7C-CAB3-9550-B259-BEB72CA76BEC}|ManagementSystem\\ManagementSystem.csproj|solutionrelative:managementsystem\\models\\workround.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC33A7C-CAB3-9550-B259-BEB72CA76BEC}|ManagementSystem\\ManagementSystem.csproj|c:\\users\\wget\\source\\repos\\managementsystem\\managementsystem\\controllers\\webhookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBC33A7C-CAB3-9550-B259-BEB72CA76BEC}|ManagementSystem\\ManagementSystem.csproj|solutionrelative:managementsystem\\controllers\\webhookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC33A7C-CAB3-9550-B259-BEB72CA76BEC}|ManagementSystem\\ManagementSystem.csproj|c:\\users\\wget\\source\\repos\\managementsystem\\managementsystem\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBC33A7C-CAB3-9550-B259-BEB72CA76BEC}|ManagementSystem\\ManagementSystem.csproj|solutionrelative:managementsystem\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC33A7C-CAB3-9550-B259-BEB72CA76BEC}|ManagementSystem\\ManagementSystem.csproj|c:\\users\\wget\\source\\repos\\managementsystem\\managementsystem\\managementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BBC33A7C-CAB3-9550-B259-BEB72CA76BEC}|ManagementSystem\\ManagementSystem.csproj|solutionrelative:managementsystem\\managementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC33A7C-CAB3-9550-B259-BEB72CA76BEC}|ManagementSystem\\ManagementSystem.csproj|c:\\users\\wget\\source\\repos\\managementsystem\\managementsystem\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBC33A7C-CAB3-9550-B259-BEB72CA76BEC}|ManagementSystem\\ManagementSystem.csproj|solutionrelative:managementsystem\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC33A7C-CAB3-9550-B259-BEB72CA76BEC}|ManagementSystem\\ManagementSystem.csproj|c:\\users\\wget\\source\\repos\\managementsystem\\managementsystem\\dtos\\gitlabwebhookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBC33A7C-CAB3-9550-B259-BEB72CA76BEC}|ManagementSystem\\ManagementSystem.csproj|solutionrelative:managementsystem\\dtos\\gitlabwebhookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC33A7C-CAB3-9550-B259-BEB72CA76BEC}|ManagementSystem\\ManagementSystem.csproj|c:\\users\\wget\\source\\repos\\managementsystem\\managementsystem\\migrations\\20260209001321_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBC33A7C-CAB3-9550-B259-BEB72CA76BEC}|ManagementSystem\\ManagementSystem.csproj|solutionrelative:managementsystem\\migrations\\20260209001321_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC33A7C-CAB3-9550-B259-BEB72CA76BEC}|ManagementSystem\\ManagementSystem.csproj|c:\\users\\wget\\source\\repos\\managementsystem\\managementsystem\\dbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBC33A7C-CAB3-9550-B259-BEB72CA76BEC}|ManagementSystem\\ManagementSystem.csproj|solutionrelative:managementsystem\\dbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC33A7C-CAB3-9550-B259-BEB72CA76BEC}|ManagementSystem\\ManagementSystem.csproj|c:\\users\\wget\\source\\repos\\managementsystem\\managementsystem\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBC33A7C-CAB3-9550-B259-BEB72CA76BEC}|ManagementSystem\\ManagementSystem.csproj|solutionrelative:managementsystem\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\wget\\source\\repos\\ManagementSystem\\ManagementSystem\\Controllers\\ProjectsController.cs",
+              "RelativeDocumentMoniker": "ManagementSystem\\Controllers\\ProjectsController.cs",
+              "ToolTip": "C:\\Users\\wget\\source\\repos\\ManagementSystem\\ManagementSystem\\Controllers\\ProjectsController.cs",
+              "RelativeToolTip": "ManagementSystem\\Controllers\\ProjectsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T00:27:12.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectVersion.cs",
+              "DocumentMoniker": "C:\\Users\\wget\\source\\repos\\ManagementSystem\\ManagementSystem\\Models\\ProjectVersion.cs",
+              "RelativeDocumentMoniker": "ManagementSystem\\Models\\ProjectVersion.cs",
+              "ToolTip": "C:\\Users\\wget\\source\\repos\\ManagementSystem\\ManagementSystem\\Models\\ProjectVersion.cs",
+              "RelativeToolTip": "ManagementSystem\\Models\\ProjectVersion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T23:39:53.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReleaseService.cs",
+              "DocumentMoniker": "C:\\Users\\wget\\source\\repos\\ManagementSystem\\ManagementSystem\\Services\\ReleaseService.cs",
+              "RelativeDocumentMoniker": "ManagementSystem\\Services\\ReleaseService.cs",
+              "ToolTip": "C:\\Users\\wget\\source\\repos\\ManagementSystem\\ManagementSystem\\Services\\ReleaseService.cs",
+              "RelativeToolTip": "ManagementSystem\\Services\\ReleaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T00:15:58.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\wget\\source\\repos\\ManagementSystem\\ManagementSystem\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "ManagementSystem\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\wget\\source\\repos\\ManagementSystem\\ManagementSystem\\Models\\Project.cs",
+              "RelativeToolTip": "ManagementSystem\\Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T23:38:44.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wget\\source\\repos\\ManagementSystem\\ManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "ManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\wget\\source\\repos\\ManagementSystem\\ManagementSystem\\Program.cs",
+              "RelativeToolTip": "ManagementSystem\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAApwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T00:08:22.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WorkRound.cs",
+              "DocumentMoniker": "C:\\Users\\wget\\source\\repos\\ManagementSystem\\ManagementSystem\\Models\\WorkRound.cs",
+              "RelativeDocumentMoniker": "ManagementSystem\\Models\\WorkRound.cs",
+              "ToolTip": "C:\\Users\\wget\\source\\repos\\ManagementSystem\\ManagementSystem\\Models\\WorkRound.cs",
+              "RelativeToolTip": "ManagementSystem\\Models\\WorkRound.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T23:39:40.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebhookController.cs",
+              "DocumentMoniker": "C:\\Users\\wget\\source\\repos\\ManagementSystem\\ManagementSystem\\Controllers\\WebhookController.cs",
+              "RelativeDocumentMoniker": "ManagementSystem\\Controllers\\WebhookController.cs",
+              "ToolTip": "C:\\Users\\wget\\source\\repos\\ManagementSystem\\ManagementSystem\\Controllers\\WebhookController.cs",
+              "RelativeToolTip": "ManagementSystem\\Controllers\\WebhookController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T00:18:28.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\wget\\source\\repos\\ManagementSystem\\ManagementSystem\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ManagementSystem\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\wget\\source\\repos\\ManagementSystem\\ManagementSystem\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ManagementSystem\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T00:32:44.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ManagementSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\wget\\source\\repos\\ManagementSystem\\ManagementSystem\\ManagementSystem.csproj",
+              "RelativeDocumentMoniker": "ManagementSystem\\ManagementSystem.csproj",
+              "ToolTip": "C:\\Users\\wget\\source\\repos\\ManagementSystem\\ManagementSystem\\ManagementSystem.csproj",
+              "RelativeToolTip": "ManagementSystem\\ManagementSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-09T00:12:50.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\wget\\source\\repos\\ManagementSystem\\ManagementSystem\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ManagementSystem\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\wget\\source\\repos\\ManagementSystem\\ManagementSystem\\Models\\Product.cs",
+              "RelativeToolTip": "ManagementSystem\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T23:39:18.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GitLabWebhookDto.cs",
+              "DocumentMoniker": "C:\\Users\\wget\\source\\repos\\ManagementSystem\\ManagementSystem\\DTOs\\GitLabWebhookDto.cs",
+              "RelativeDocumentMoniker": "ManagementSystem\\DTOs\\GitLabWebhookDto.cs",
+              "ToolTip": "C:\\Users\\wget\\source\\repos\\ManagementSystem\\ManagementSystem\\DTOs\\GitLabWebhookDto.cs",
+              "RelativeToolTip": "ManagementSystem\\DTOs\\GitLabWebhookDto.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T00:15:06.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20260209001321_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\wget\\source\\repos\\ManagementSystem\\ManagementSystem\\Migrations\\20260209001321_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ManagementSystem\\Migrations\\20260209001321_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\wget\\source\\repos\\ManagementSystem\\ManagementSystem\\Migrations\\20260209001321_InitialCreate.cs",
+              "RelativeToolTip": "ManagementSystem\\Migrations\\20260209001321_InitialCreate.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T00:13:22.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\wget\\source\\repos\\ManagementSystem\\ManagementSystem\\DbContextFactory.cs",
+              "RelativeDocumentMoniker": "ManagementSystem\\DbContextFactory.cs",
+              "ToolTip": "C:\\Users\\wget\\source\\repos\\ManagementSystem\\ManagementSystem\\DbContextFactory.cs",
+              "RelativeToolTip": "ManagementSystem\\DbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T00:12:57.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\wget\\source\\repos\\ManagementSystem\\ManagementSystem\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ManagementSystem\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\wget\\source\\repos\\ManagementSystem\\ManagementSystem\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ManagementSystem\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T00:07:07.917Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
