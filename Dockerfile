@@ -2,20 +2,23 @@
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
 
-# Копируем файл проекта и восстанавливаем зависимости
-COPY ["ManagementSystem.csproj", "./"]
-RUN dotnet restore "./ManagementSystem.csproj"
+# Копируем файл проекта из папки ManagementSystem
+COPY ["ManagementSystem/ManagementSystem.csproj", "ManagementSystem/"]
+RUN dotnet restore "ManagementSystem/ManagementSystem.csproj"
 
-# Копируем остальные файлы и собираем
+# Копируем всё остальное
 COPY . .
+WORKDIR "/src/ManagementSystem"
+RUN dotnet build "ManagementSystem.csproj" -c Release -o /app/build
+
+FROM build AS publish
 RUN dotnet publish "ManagementSystem.csproj" -c Release -o /app/publish
 
 # Этап запуска
 FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS final
 WORKDIR /app
-COPY --from=build /app/publish .
+COPY --from=publish /app/publish .
 
-# Render передает порт через переменную окружения PORT
 ENV ASPNETCORE_URLS=http://+:8080
 EXPOSE 8080
 
